@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qiuyaqiong.github.io/</id>
     <title>邱亚琼的个人网站</title>
-    <updated>2019-09-07T14:33:25.686Z</updated>
+    <updated>2019-09-07T14:34:54.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qiuyaqiong.github.io/"/>
     <link rel="self" href="https://qiuyaqiong.github.io//atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://qiuyaqiong.github.io//images/avatar.png</logo>
     <icon>https://qiuyaqiong.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 邱亚琼的个人网站</rights>
+    <entry>
+        <title type="html"><![CDATA[文件]]></title>
+        <id>https://qiuyaqiong.github.io//post/wen-jian</id>
+        <link href="https://qiuyaqiong.github.io//post/wen-jian">
+        </link>
+        <updated>2019-09-07T14:34:37.000Z</updated>
+        <content type="html"><![CDATA[<p>图片<img src="https://qiuyaqiong.github.io//post-images/1567866889222.png" alt=""></p>
+]]></content>
+    </entry>
 </feed>
